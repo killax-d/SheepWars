@@ -1,0 +1,5 @@
+name: SheepWars
+version: 1.29
+api-version: 1.14
+main: com.phoenixgames.sheepwars.SheepWars
+author: Killax
